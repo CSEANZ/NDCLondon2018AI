@@ -14,7 +14,7 @@
 
 ## GitHub repos of presentation demo code
 * Menu Explorer https://github.com/Azadehkhojandi/menuexplorer
-* Birds in your backyard https://github.com/Azadehkhojandi/birdsinyourbackyard
+* Custom vision client app https://github.com/Azadehkhojandi/CustomVisionWithIONIC
 * Custom vision generator https://github.com/Azadehkhojandi/CustomVisionSample
 * Image downloader https://github.com/Azadehkhojandi/ImageDownloader
 
