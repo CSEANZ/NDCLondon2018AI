@@ -8,6 +8,9 @@
   * Blog https://DavidBurela.Wordpress.com
   * GitHub https://github.com/DavidBurela
 
+## Demo websites
+* Menu Explorer https://themenuexplorer.azurewebsites.net/
+* Birds in your backyard http://birdsinyourbackyard.azurewebsites.net/
 
 ## GitHub repos of presentation demo code
 * Menu Explorer https://github.com/Azadehkhojandi/menuexplorer
