@@ -15,7 +15,7 @@
 ## GitHub repos of presentation demo code
 * Menu Explorer https://github.com/Azadehkhojandi/menuexplorer
 * Custom vision client app https://github.com/Azadehkhojandi/CustomVisionWithIONIC
-* Custom vision generator https://github.com/Azadehkhojandi/CustomVisionSample
+* Custom vision generator https://github.com/Azadehkhojandi/Custom-Vision-Generator
 * Image downloader https://github.com/Azadehkhojandi/ImageDownloader
 
 ## Additional resources
